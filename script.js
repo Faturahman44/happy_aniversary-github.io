@@ -34,13 +34,13 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   const loveTexts = [
-    "jadi kekasihku saja.",
-    "katakan cinta💖.",
-    "hati ini meminta.",
-    "kau lebih dari teman berbagi.",
-    "jadi kekasih ku saja.",
-    "cinta katakan cinta💖.",
-    "hati ini meminta .",
+    "jadi kekasihku saja",
+    "katakan cinta💖",
+    "hati ini meminta",
+    "kau lebih dari teman berbagi",
+    "jadi kekasih ku saja",
+    "cinta katakan cinta💖",
+    "hati ini meminta",
     "kau lebih dari teman berbagi 💖"
     
     

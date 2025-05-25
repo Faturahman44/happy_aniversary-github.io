@@ -34,14 +34,14 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   const loveTexts = [
-    "Karna kamu cantik.",
-    "kan ku beri segalanya apa yang kupunya.",
-    "Dan hatimu baik.",
-    "Sempurnah duniaku saat kau di sisiku.",
-    "Bukan kanrna make up di wajahmu .",
-    "Atau lipstik merah itu .",
-    "Lembut hati tutur kata .",
-    "Terciptalah cinta yang ku puja 💖"
+    "jadi kekasihku saja.",
+    "katakan cinta💖.",
+    "hati ini meminta.",
+    "kau lebih dari teman berbagi.",
+    "jadi kekasih ku saja.",
+    "cinta katakan cinta💖.",
+    "hati ini meminta .",
+    "kau lebih dari teman berbagi 💖"
     
     
   ];
